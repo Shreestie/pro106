@@ -1,0 +1,45 @@
+h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: italic;
+   font-weight:800;
+}
+h4{
+    background-color:black;
+    color:aquamarine;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    
+}
+img{
+    width: 200px;
+    border-radius: 20%;
+    padding: auto;
+    box-shadow: 10px 20px grey;
+   
+}
+.image{
+    width: 300px;
+    border-radius: 20%;
+    padding: auto;
+    box-shadow: 10px 20px grey;
+    
+}
+.background{
+    width: 300px;
+    border-radius: 20%;
+    padding: auto;
+    box-shadow: 10px 20px grey;
+    
+}
+img:hover{
+    width: 100px;
+}
+label{
+    background-color: cornflowerblue;
+}
+.selfie{
+    background-color: blueviolet;
+}
+
